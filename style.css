@@ -1,0 +1,21 @@
+.headerblock{
+    height: 4rem;
+}
+.mainblock{
+    background-color: #f8f9fa;
+    height: 52rem;
+}
+.micro{
+    background-color: #cdcdcd;
+    width: 3rem;
+    height: 3rem;
+}
+.channelblock{
+    height: 4rem;
+}
+.video-1{
+    height: 7rem;
+}
+.video2text{
+    font-size: 10px;
+}
